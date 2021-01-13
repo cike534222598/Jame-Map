@@ -625,6 +625,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = Cache;
 				TargetAttributes = {
+					046E43FC1AE784B30061FE79 = {
+						DevelopmentTeam = X5733X6NCT;
+					};
 					046E44171AE784B30061FE79 = {
 						TestTargetID = 046E43FC1AE784B30061FE79;
 					};
@@ -635,6 +638,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 046E43F41AE784B30061FE79;
@@ -863,6 +867,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = X5733X6NCT;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -872,6 +877,7 @@
 				INFOPLIST_FILE = "Map/Map-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-Objc";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shaco.Map;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WARNING_CFLAGS = "-Wno-shorten-64-to-32";
 				WARNING_LDFLAGS = "-Objc";
@@ -885,6 +891,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = X5733X6NCT;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -894,6 +901,7 @@
 				INFOPLIST_FILE = "Map/Map-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-Objc";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shaco.Map;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WARNING_CFLAGS = "-Wno-shorten-64-to-32";
 				WARNING_LDFLAGS = "-Objc";
